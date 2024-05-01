@@ -5,4 +5,4 @@ pip install seaborn
 pip install pandas
 pip install requests
 pip install plotly
-pip install --upgrade pip setuptools
+pip install --no-cache-dir --force-reinstall numpy
