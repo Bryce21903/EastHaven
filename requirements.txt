@@ -1,4 +1,4 @@
 matplotlib==3.4.3
 seaborn==0.11.2
-gdown==4.0.3
+gdown  # No version specified
 numpy==1.21.0
